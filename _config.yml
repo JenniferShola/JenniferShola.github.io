@@ -65,6 +65,9 @@ author:
   avatar : "/assets/images/bio-photo.jpg"
   bio    : "Just an engineer trying to find the future. Scholar @ OpenAI."
   links:
+    - label: About Me
+      icon: "fas fa-user-astronaut"
+      url: "https://jennifershola.github.io/about/"
     - label: "LinkedIn"
       icon: "fab fa-linkedin-in"
       url: "https://www.linkedin.com/in/soyedele/"
@@ -74,6 +77,12 @@ author:
     - label: "GitHub"
       icon: "fab fa-github"
       url: "https://github.com/JenniferShola"
+    - label: About Me
+      icon: "fas fa-user-graduate"
+      url: /about/
+    - label: About Me
+      icon: "fas fa-user-ninja"
+      url: "https://jennifershola.github.io/about/"
 
 footer:
   links:
