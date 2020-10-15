@@ -7,15 +7,15 @@
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
 
-.sidebar
+.sidebar {
   .sticky {
     opacity: 1;
   }
-}
-
-.sidebar p, .sidebar li {
-  font-size: .75em;
-  line-height: 1.5;
+  
+  p, li {
+    font-size: .75em;
+    line-height: 1.5;
+  }
 }
 
 @media (min-width: 80em) {
