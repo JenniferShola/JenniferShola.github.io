@@ -7,6 +7,7 @@
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
 
+$color-almostblack: #3d4144;
 $color-bluegreen: #4e91a5;
 $color-white: #fff;
 
@@ -37,15 +38,19 @@ span.label {
   }
 }
 
-.search__toggle {
-  color: $color-bluegreen;
+.archive__subtitle {
+    color: $color-almostblack;
 }
 
-.pagination li a.current, .pagination li a.current.disabled {
-    color: $color-white;
-    background: $color-bluegreen;
+.greedy-nav a {
+    color: $color-almostblack;
 }
 
-.pagination li a:hover {
-    color: $color-bluegreen;
-}
+// .pagination li a.current, .pagination li a.current.disabled {
+//     color: $color-white;
+//     background: $color-bluegreen;
+// }
+
+// .pagination li a:hover {
+//     color: $color-bluegreen;
+// }
