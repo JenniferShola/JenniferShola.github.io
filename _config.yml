@@ -77,12 +77,6 @@ author:
     - label: "GitHub"
       icon: "fab fa-github"
       url: "https://github.com/JenniferShola"
-    - label: About Me
-      icon: "fas fa-user-graduate"
-      url: /about/
-    - label: About Me
-      icon: "fas fa-user-ninja"
-      url: "https://jennifershola.github.io/about/"
 
 footer:
   links:
