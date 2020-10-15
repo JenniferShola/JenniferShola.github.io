@@ -6,3 +6,17 @@
 
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
+
+div#main {
+    color: red;
+}
+
+.sidebar.sticky {
+	opacity: .9 !important;
+}
+
+@media (min-width: 80em) {
+	.sidebar {
+		width: calc(200px - 1em) !important;
+	}
+}
