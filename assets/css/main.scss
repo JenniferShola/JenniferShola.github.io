@@ -9,7 +9,7 @@
 
 .sidebar {
   .sticky {
-    opacity: 1;
+    opacity: 1 !important;
   }
   
   p, li {
@@ -29,4 +29,6 @@ span.label {
   }
 }
 
-
+a:visited {
+    color: #4e91a5;
+}
