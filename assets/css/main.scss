@@ -32,12 +32,6 @@ span.label {
   }
 }
 
-.archive {
-  a:visited {
-    color: $color-bluegreen;
-  }
-}
-
 .archive__subtitle {
     color: $color-almostblack;
 }
@@ -45,12 +39,3 @@ span.label {
 .greedy-nav a {
     color: $color-almostblack;
 }
-
-// .pagination li a.current, .pagination li a.current.disabled {
-//     color: $color-white;
-//     background: $color-bluegreen;
-// }
-
-// .pagination li a:hover {
-//     color: $color-bluegreen;
-// }
