@@ -6,10 +6,11 @@ div#main {
 }
 
 .sidebar.sticky {
-    opacity: .9 !important;
+	opacity: .9 !important;
 }
 
-@media (min-width: 80em)
-.sidebar {
-    width: calc(200px - 1em) !important;
+@media (min-width: 80em) {
+	.sidebar {
+		width: calc(200px - 1em) !important;
+	}
 }
