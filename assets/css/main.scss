@@ -11,6 +11,9 @@ $color-almostblack: #3d4144;
 $color-bluegreen: #4e91a5;
 $color-white: #fff;
 
+
+
+// Sidebar edits
 .sidebar.sticky {
     opacity: 1;
 }
@@ -20,22 +23,33 @@ $color-white: #fff;
     line-height: 1.5;
   }
 }
-
 span.label {
   font-size: .75em;
   line-height: 1;
 }
-
 @media (min-width: 80em) {
   .sidebar {
     width: calc(200px - 1em);
   }
 }
 
+
+
+// Fixing header text
 .archive__subtitle {
     color: $color-almostblack;
 }
-
 .greedy-nav a {
     color: $color-almostblack;
+}
+
+
+
+// Footer css
+.page__footer {
+    margin-top: 2em;
+}
+.page__footer footer {
+    margin-top: 1em;
+    padding: 0 1em 1em;
 }
