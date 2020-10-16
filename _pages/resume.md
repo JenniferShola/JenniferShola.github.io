@@ -38,4 +38,3 @@ Software Engineer, *2014-2015*
 
 TBD - Projects coming soon.
 
-------
