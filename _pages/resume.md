@@ -21,9 +21,8 @@ Software Engineer, *2015-2017*
 
 ###### Intuit
 Software Engineer, *2014-2015* 
-* Contributed to Quickbooks Online Search as a microservice which reduced search SLA from 4mins to ~10 ms. 
-* Co-led data pipeline development for all QBO microservices (core infrastructure to enable transition to SOA).
-* Prototyped data transformation layers using Apache Spark, Apache Storm, and Rabbit MQ; 
+* Contributed to team rebuild of Quickbooks Online Search as a microservice. Reduced SLA substantially.
+* Co-led data pipeline development for microservices build out. Prototyped data transformation layers using Apache Spark. 
 
 ------
 ## Skills {#skills}
