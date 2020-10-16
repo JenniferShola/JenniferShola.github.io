@@ -63,7 +63,8 @@ plugins:
 author:
   name   : "Shola Oyedele"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "Just an engineer trying to find the future.  Scholar @ OpenAI."
+  bio    : "Just an engineer trying to find the future."
+  bio2   : "Scholar @ OpenAI."
   links:
     - label: About Me
       icon: "fas fa-user-astronaut"
