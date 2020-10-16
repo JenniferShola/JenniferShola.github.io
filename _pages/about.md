@@ -3,6 +3,6 @@ permalink: /about/
 title: "About"
 ---
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
+Shola Oyedele is an Open AI Scholar. Prior to her current role, Shola worked as a Senior Software Engineer at IBM in the Global Business Services unit, which means that instead of working on a product, she worked on projects where IBM works in partnership with clients IBM consults for. She consults for large enterprise clients to help them rebuild or innovate their technology, focusing on artificial intelligence and machine learning. She also worked as a Software Engineer at Walker & Company (acquired by Proctor and Gamble) and Intuit. 
 
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
+Shola holds a BS in Science, Technology & Society from Stanford University and is pursuing her Master's in Computer Science at Georgia Institute of Technology.
