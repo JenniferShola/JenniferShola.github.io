@@ -8,7 +8,6 @@ author_profile: true
 Current Role: Scholar at Open AI
 
 ------
-
 ## Experience {#experience}
 
 ###### IBM
@@ -27,7 +26,6 @@ Software Engineer, *2014-2015*
 * Prototyped data transformation layers using Apache Spark, Apache Storm, and Rabbit MQ; 
 
 ------
-
 ## Skills {#skills}
 
 ###### Software Development
@@ -36,7 +34,6 @@ Software Engineer, *2014-2015*
 * Distributed FS & DBs: PostgreSQL, Elastic Search, SQL, Cassandra, Hadoop, HDFS, Hive, Spark
 
 -------
-
 ## Side Projects {#sides}
 
 TBD - Projects coming soon.
