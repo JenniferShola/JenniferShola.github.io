@@ -24,13 +24,12 @@
     {% if author.bio %}
       <div class="author__bio" itemprop="description">
         {{ author.bio | markdownify }}
+        {% if author.bio_detail %}
+            {{ author.bio_detail | markdownify }}
+        {% endif %}
       </div>
     {% endif %}
-    {% if author.bio_detail %}
-      <div class="author__bio" itemprop="description">
-        {{ author.bio_detail | markdownify }}
-      </div>
-    {% endif %}
+    
   </div>
 
   <div class="author__urls-wrapper">
