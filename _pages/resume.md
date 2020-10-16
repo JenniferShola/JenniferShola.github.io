@@ -1,12 +1,11 @@
 ---
-title: "Resume"
+title: "Shola Oyedele"
 permalink: /resume/
 layout: posts
 author_profile: true
 ---
 
-# Shola Oyedele
-Scholar at Open AI
+Current Role: Scholar at Open AI
 
 ### Experience {#experience}
 
