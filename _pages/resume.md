@@ -29,7 +29,7 @@ Software Engineer, *2014-2015*
 
 ### Side Projects {#sides}
 
-##### TBD - Projects coming soon.
+TBD - Projects coming soon.
 
 ------
 
