@@ -6,7 +6,6 @@ categories:
 tags:
   - Open AI
 ---
-
 ##### Prince Georges County, MD
 
 I'm from a little suburb in Maryland just outside of Washington, DC. As a kid, my aunt would take my cousins and I on a day trip, visiting one of the city's museums for the day. Much of my summers were spent at the exhibits, watching movies about dinosaurs and collecting random tidbits on science and history. I'm not sure *when* it started but it's probably *where* most of my dreams of the future began.
