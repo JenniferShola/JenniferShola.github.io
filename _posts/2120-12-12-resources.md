@@ -1,6 +1,6 @@
 ---
-title: "3 Principles to Learn By"
-date: 2020-10-19
+title: "Resources"
+date: 2120-10-19
 categories:
   - blog
 tags:
