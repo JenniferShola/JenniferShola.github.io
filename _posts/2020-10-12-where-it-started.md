@@ -2,9 +2,9 @@
 title: "Where It Started"
 date: 2020-10-12
 categories:
-  - blog
+  - Origin Stories
 tags:
-  - Open AI
+  - personal
 ---
 ##### Prince Georges County, MD
 

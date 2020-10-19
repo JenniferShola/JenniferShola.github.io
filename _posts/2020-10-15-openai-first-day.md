@@ -2,9 +2,9 @@
 title: "Can't Believe I'm an OpenAI Scholar"
 date: 2020-10-15
 categories:
-  - blog
+  - Open AI Scholars
 tags:
-  - Open AI
+  - Open AI Scholars Program
   - imposter syndrome
 ---
 The engineer in me is telling me to set up my environment and start working on *literally* anything. The perfectionist in me is hearing the other scholars speak about *multi-agent something or other* and I'm freaking out!

@@ -2,12 +2,15 @@
 title: "3 Principles to Learn By"
 date: 2020-10-19
 categories:
-  - blog
+  - Advice
 tags:
-  - Open AI
+   - Open AI Scholars Program
+   - advice
+   - exploration
+   - code first
+   - sprints
 ---
-
-I could organize a learning schedule... but that would take time away that could be spent learning and executing. To maximize my efforts in development, I've decided to take a different approach from how I historically study.
+I could organize a learning schedule for the [Open AI Scholars](https://openai.com/blog/openai-scholars-spring-2020/) program... but that would take time away that could be spent learning and executing. To maximize my efforts in development, I've decided to take a different approach from how I historically study.
 
 Here are a few principles I plan to abide by.
 
