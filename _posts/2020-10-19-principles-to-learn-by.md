@@ -5,10 +5,10 @@ categories:
   - Advice
 tags:
    - Open AI Scholars Program
-   - advice
-   - exploration
-   - code first
-   - sprints
+   - Advice
+   - Exploration
+   - Code First
+   - Sprints
 ---
 I could organize a learning schedule for the [Open AI Scholars](https://openai.com/blog/openai-scholars-spring-2020/) program... but that would take time away that could be spent learning and executing. To maximize my efforts in development, I've decided to take a different approach from how I historically study.
 
