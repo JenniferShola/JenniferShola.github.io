@@ -32,9 +32,14 @@ remote_theme: mmistakes/minimal-mistakes@4.20.2
 permalink: /:categories/:title/
 paginate: 5 # amount of posts to show
 paginate_path: /page:num/
-timezone: America/New_York # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: America/New_York
 locale: "en-US"
 future: false
+analytics:
+  provider: "google-gtag"
+  google:
+    tracking_id: "G-V60CZ8RHY4"
+    anonymize_ip: false # default
 
 include:
   - _pages

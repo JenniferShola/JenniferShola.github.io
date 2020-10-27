@@ -65,31 +65,31 @@ Reading papers used to be a daunting activity that would take me several hours f
 
 **Here is the process:**
 
-1. Read the title, abstract, and figures.
+1. **Read the title, abstract, and figures.**
 
     Goal: Your goal is to understand the high level of what the paper is presenting.
 
     You don't need to take notes.
 
-2. Read the introduction, conclusion, figures, and skim the rest of the paper.
+2. **Read the introduction, conclusion, figures, and skim** the rest of the paper.
 
     Goal: Your goal is to skim the paper and understand the high level *details* of what the paper is presenting.
 
     You shouldn't take any notes. I usually re-read the title and abstract, and then read the headlines and occasionally the first line of paragraphs and sections that seem interesting. It might be tempting to read more but I don't suggest it. It's best to focus on understanding what the authors have done at a high level.
 
-3. Read the paper. Skip the math.
+3. **Read the paper. Skip the math.**
 
     Goal: Your goal is to read the paper thoroughly. Take notes but skip the math and any part you don't understand.
 
     By this point, repetition will have become your friend. Having read the key pieces of the paper multiple times, it will make reading the rest of the paper easier. It'll also feel as if you're already familiar with what the paper is proposing and make this read much faster. I also tend to look up any definitions that appear (but aren't defined) in the paper; I find that these terms can usually be understood after a quick Google search.
 
-4. *(Optional)* Implement the paper and/or read the paper focused on the most difficult parts.
+4. *(Optional)* **Implement the paper** and/or read the paper focused on the most difficult parts.
 
     Goal: Your goal is to apply what you've learned and/or deepen your theoretical knowledge of the topic. If you don't implement the paper, read it again but focusing on the math and any areas you didn't understand.
 
     I have found this point to not be needed (for most papers). Typically, I re-implement the algorithm presented in the paper if it's a wide-used one (such as ResNet) but otherwise, I focus on applying what I've learned into new models.
 
-5. Review the paper by answering these questions.
+5. **Review the paper by answering these questions.**
 
     Goal: To summarize the paper in your own words. I typically write the answer to these questions at the back of the paper.
 
