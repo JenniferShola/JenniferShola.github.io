@@ -40,13 +40,13 @@ As a result, stopping a virtual machine does **not** stop Azure from continuing 
 
 Please take it from someone who may or may not have burned through a thousand dollars of cloud spending overnight... one must understand the proper use of VM management before using expensive VMs.
 
-Build5Nine has a great blog post on [how to properly shutdown azure VMs](https://build5nines.com/properly-shutdown-azure-vm-to-save-money/) to save money and an introduction to [azure cli commands](https://build5nines.com/azure-cli-2-0-quickly-start-stop-all-vms/).
+Build5Nines has a great blog post on [how to properly shutdown azure VMs](https://build5nines.com/properly-shutdown-azure-vm-to-save-money/) to save money and an introduction to [azure cli commands](https://build5nines.com/azure-cli-2-0-quickly-start-stop-all-vms/).
 
 ## How Can I Use Containers to Minimize Computing Costs
 
-This is the toughest question and the one that is still being worked on.
+This is what we're still working on.
 
-Ideally, we want to minimize costs by only spending computing time during active testing and deployment of machine learning models. We don't necessarily want to spsend computer costs during development (because GPUs are expensive) but we also don't want to put ourselves in a position where we're needlessly spinning and shutting off resources repeatedly during active deployment.
+Ideally, we want to minimize costs by only spending computing time during active testing and deployment of machine learning models. We don't necessarily want to spend computer costs during development (because GPUs are expensive) but we also don't want to put ourselves in a position where we're needlessly spinning and shutting off resources repeatedly during active deployment.
 
 To make this more complicated, we plan to work on a variety of ml tasks. Some can be easily run on a laptop in minutes but others might require heavy processing, more easily ran on GPU cores. The question - how do we create a system of containerized deployments that allows us to easily switch context between tasks with low processing needs vs heavy processing? Do we leverage docker containers on Azure virtual machines or Azure containers configured with packages like docker and cuda?
 

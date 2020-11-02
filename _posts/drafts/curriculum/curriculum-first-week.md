@@ -1,6 +1,6 @@
 ---
-title: "Curriculum - Week 1"
-date: 2120-10-23
+title: "Curriculum - Week 1/2"
+date: 4040-10-23
 categories:
   - Open AI Scholars
 tags:
@@ -38,7 +38,7 @@ Residual Connections (are connections that allow gradients to flow directly thro
 [ImageNet Classification with Deep Convolutional Neural Networks](http://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks.pdf)
 
 [Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
-
+D
 [Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift](https://arxiv.org/pdf/1502.03167.pdf)
 
 - [Internal covariate shift](https://machinelearning.wtf/terms/internal-covariate-shift/)
@@ -49,26 +49,28 @@ Residual Connections (are connections that allow gradients to flow directly thro
 
 [Multi-Scale Context Aggregation by Dilated Convolutions](https://arxiv.org/pdf/1511.07122.pdf)
 
-## Learning how to learn
+## ResNet Implementation
 
-### The Best Resources
+[Pytorch ResNet implementation from Scratch](https://www.youtube.com/watch?v=DkNIBBBvcPs&ab_channel=AladdinPersson)
 
-[Learning How to Learn | Barbara Oakley | Talks at Google](https://www.youtube.com/watch?v=vd2dtkMINIw&ab_channel=TalksatGoogle)
+[CNN Cifar10 #Pytorch #Udacity Challenge Exercise Part1 #PytorchUdacityScholar](https://www.youtube.com/watch?v=wcQuJOZedlE&ab_channel=dannyiskandar)
 
-[Stanford CS230: Deep Learning | Autumn 2018 | Lecture 8 - Career Advice / Reading Research Papers](https://www.youtube.com/watch?v=733m6qBH-jI&ab_channel=stanfordonline)
+[DEEP LEARNING WITH PYTORCH: A 60 MINUTE BLITZ](https://pytorch.org/tutorials/beginner/deep_learning_60min_blitz.html)
 
-[You and your research](https://www.youtube.com/watch?v=a1zDuOPkMSw&ab_channel=securitylectures))
+[Tensors Explained - Data Structures of Deep Learning (video)](https://www.youtube.com/watch?v=Csa5R12jYRg&ab_channel=deeplizard)
 
-[How To Be Successful by Sam Altman](https://blog.samaltman.com/how-to-be-successful)
+[Pytorch: Step by Step implementation 3D Convolution Neural Network](https://towardsdatascience.com/pytorch-step-by-step-implementation-3d-convolution-neural-network-8bf38c70e8b3)
 
-### Other Resources Leveraged
+[Residual Networks: Implementing ResNet in Pytorch](https://towardsdatascience.com/residual-network-implementing-resnet-a7da63c7b278)
 
-[Idea Generation by Sam Altman](https://blog.samaltman.com/idea-generation)
+[Understanding and visualizing ResNets](https://towardsdatascience.com/understanding-and-visualizing-resnets-442284831be8)
 
-[How to Read a Research Paper](https://www.youtube.com/watch?v=SHTOI0KtZnU&ab_channel=SirajRaval)
+[PyTorch implementation of ResNet - Jupyter Notebook](http://www.pabloruizruiz10.com/resources/CNNs/ResNet-PyTorch.html)
 
-[You and your research](https://www.cs.utexas.edu/users/dahlin/bookshelf/hamming.html)
+[ResNets - Academic Notes](http://www.pabloruizruiz10.com/resources/CNNs/ResNets.pdf)
 
-[You & Your Research — Notes](https://carnivas.com/you-your-research-notes-d4421ae895ea)
+## Fears
 
-[The Psychology of Human Misjudgment, by Charlie Munger](https://fs.blog/great-talks/psychology-human-misjudgment/)
+I vaguely know what's needed to build ResNet but I'm scared to start building it wrong.
+
+Do I used Conv classes or do I build my own? Maybe let's build using established objects and then we can replace them with out own implementation.

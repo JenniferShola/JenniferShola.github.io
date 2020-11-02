@@ -61,7 +61,7 @@ Please review the advice below. I sought out experts on these topics and summari
 
 The most effective way I've found to read research papers is by reading them in multiple passes. In each pass, you're trying to learn something different from the paper. I learned about this strategy from [Andrew Ng](https://www.youtube.com/watch?v=733m6qBH-jI&ab_channel=stanfordonline) and I'm personally sold on it.
 
-Reading papers used to be a daunting activity that would take me several hours from start to finish and sometimes multiple days. Now, it takes me less than an hour to do the final read of the paper (with notes) and prior reads don't take long enough for me to time.
+Reading papers used to be a daunting activity that would take me several hours from start to finish and sometimes multiple days. Now, it takes me about an hour or less to do the final read of the paper (with notes) and prior reads don't take long enough for me to time.
 
 **Here is the process:**
 
