@@ -11,11 +11,11 @@ tags:
   - Computing Costs
 ---
 
-This is a follow up to the blog post about containerized flows using docker and azure. Please read about it [here](https://jennifershola.github.io/technologies/starter-ml-on-docker-and-azure).
+This is a follow up to the blog post about containerized flows using docker and azure. Please read about it (updated link coming soon!).
 
 In my last blog post, I gave some background on some of the technical challenges we're facing in the Open AI scholars program. Specifically, the scholars are conducting research projects as part of the program and we wanted to create a system that made development on GPUs accessible and easy, while limiting the amount of computing costs we consume. GPUs are expensive toys and no one wants to blow through a 6 month allotment  of computing costs in 2!
 
-I posed the [question](https://jennifershola.github.io/technologies/starter-ml-on-docker-and-azure#how-can-i-use-containers-to-minimize-computing-costs), how can I use containers to minimize computing costs while developing deep learning models on GPUs? The starter code for deep learning development has been updated [here.](https://github.com/JenniferShola/deep-learning-starter) Here is a breakdown of that solution.
+I posed the [question](https://jennifershola.github.io/technologies/starter-ml-on-docker-and-azure#how-can-i-use-containers-to-minimize-computing-costs), how can I use containers to minimize computing costs while developing deep learning models on GPUs? The starter code for deep learning development has been updated (updated link coming soon). Here is a breakdown of that solution.
 
 ### Structuring The Development Environment
 
@@ -39,7 +39,7 @@ When we're building models that require **high processing power**, it'll be idea
 
 While it's possible to unite the code in a git repo, it's likely better to have two separate flows depending on the processing power needed to process your machine learning project. The best way to handle multiple hardware configurations would be to isolate the application from the environment through the use of containers.
 
-The configuration specifics and details on the structure we created is explained further [here](https://github.com/JenniferShola/deep-learning-starter).
+The configuration specifics and details on the structure we created is explained further (updated link coming soon).
 
 #### Last Note on Azure
 
