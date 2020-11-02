@@ -8,7 +8,9 @@ tags:
   - Research
 ---
 
-There are plenty of blog posts that will teach you how to implement ResNet. This is not that blog post. This blog post is about the common mistakes a beginner makes when implementing ResNet. I also included a list of my [favorite implementations](#resnet-implementations) at the bottom of this post.
+There are plenty of blog posts that will teach you how to implement ResNet. This is not that blog post.
+
+This post is about the common mistakes a beginner makes when implementing ResNet. I also included a list of my [favorite implementations](#resnet-implementations) at the bottom of this post.
 
 ### Common Technical Mistakes
 
@@ -20,7 +22,7 @@ There are plenty of blog posts that will teach you how to implement ResNet. This
 
   There are 2 standard orders of dimensions for input images:
   
-  - BCHW
+  - BCHW 
 
     [batch_size, **channels**, height, width]
 
@@ -28,9 +30,11 @@ There are plenty of blog posts that will teach you how to implement ResNet. This
 
     [batch_size, height, width, **channels**]
 
-  Pytorch uses the BCHW method, where the channels are the **2<sup>nd</sup>** dimension. Since datasets are commonly arranged in either format, it might be necessary for you to change the order of dimensions before starting to train your network. An easy solution would be to transpose the channels (3 - since this is a color image) as such:
+  PyTorch uses the BCHW method, where the channels are the **2<sup>nd</sup>** dimension. Since datasets are commonly arranged in either format, it might be necessary for you to change the order of dimensions before starting to train your network. An easy solution would be to transpose the channels (3 - since this is a color image) as such:
   
-  `data = np.array(batch_data).reshape(batch_size, 3, 32, 32).transpose(0,2,3,1).astype("uint8")`
+  ```python
+    data = np.array(batch_data).reshape(batch_size, 3, 32, 32).transpose(0,2,3,1).astype("uint8")
+  ```
 
   If you don't do this change (and have the wrong orientation), you will see images in weird color orientations that won't see to make sense. An easy way to check if you might have this problem is to view the images in the dataset.
 
