@@ -22,7 +22,7 @@ This post is about the common mistakes a beginner makes when implementing ResNet
 
   There are 2 standard orders of dimensions for input images:
   
-  - BCHW 
+  - BCHW
 
     [batch_size, **channels**, height, width]
 
