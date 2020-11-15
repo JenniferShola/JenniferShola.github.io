@@ -20,7 +20,7 @@ Before the program, I dabbled into machine learning (even writing a model or two
 
 ## What I'm Working On
 
-In an earlier blog [post](2020-10-19-principles-to-learn-by.md), I detailed the principles that would guide my approach to learning (as opposed to setting up a fixed curriculum). Here, I want to give my opinion on what has and hasn't been working.
+In an earlier blog [post]({% post_url 2020-10-19-principles-to-learn-by %}), I detailed the principles that would guide my approach to learning (as opposed to setting up a fixed curriculum). Here, I want to give my opinion on what has and hasn't been working.
 
 ### Exploration
 
