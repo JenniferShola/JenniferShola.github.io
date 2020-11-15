@@ -56,6 +56,6 @@ Machine learning is built on of the backs of statistics. Imagine that a statisti
 
 That's the open secret.
 
-We are at the tip of humankind's own understanding of the world and as such, we are in that gray area where the rules aren't certain, and our explanations even more so. Much of the statistical techniques we use in AI were created in the 1800s but are just now using the data and computing power necessary to approach something that resembles human level intelligence.
+We are at the tip of humankind's own understanding of the world and as such, we are in that gray area where the rules are uncertain, and our explanations even more so. It is not expected that you understand everything and even if you did, these conventions would change faster than you could keep up with. Much of the statistical techniques we use in AI were created in the 1800s. We are just now combining these methods with the data and computing power necessary to approach something that resembles human level intelligence.
 
-Artificial Intelligence is not something to feel intimidated about. Whether you're trying to learn it or worries about how it might affect you, I implore you to have courage. If you don't know what's going on or why things work, good... you're just like everyone else.
+Artificial Intelligence is not something to feel intimidated about. Whether you're trying to learn it or worrying about how it might affect you, I implore you to have courage. If you don't know what's going on or why things work, good... you're just like everyone else.
