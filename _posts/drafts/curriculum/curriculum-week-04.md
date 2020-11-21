@@ -1,5 +1,5 @@
 ---
-title: "Curriculum - Week 4/5/6"
+title: "Curriculum - Week 4/5"
 date: 4040-10-23
 categories:
   - Open AI Scholars

@@ -2,7 +2,7 @@
 title: "Where Did the Time Go? - My One Month Update on the Open AI Scholars Program"
 date: 2020-11-10
 categories:
-  - Advice
+  - Open AI Scholars
 tags:
    - Open AI Scholars Program
    - Advice
