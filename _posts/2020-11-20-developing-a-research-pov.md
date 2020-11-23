@@ -36,7 +36,7 @@ After stalking AI researchers on twitter and watching [debates](https://www.yout
 
 Next week, I'll chat about which parts of AI research I'm interested in. Until then, I recommend building out your point-of-view on AI research. For beginners, I recommend following AI researchers on twitter (who frequently share tips and insights), subscribing to AI newsletters, and tuning in to online segments that feature prominent AI researchers. Below are a few of my favorites to get started.
 
-### AI Researchers & ML Practitioners To Follow
+#### AI Researchers & ML Practitioners To Follow
 
 I debated listing many (and more prominent) people but decided against it. Start with the people below and then go down Twitter's People to Follow rabbit hole, adding everyone who works in the field.
 
@@ -48,13 +48,13 @@ If you don't know where to start, researchers from [OpenAI](https://twitter.com/
 
 - [Elvis S.](https://twitter.com/omarsar0)
 
-### AI Podcasts I'd Recommend
+#### AI Podcasts I'd Recommend
 
 - [The Lex Fridman Podcast](https://lexfridman.com/podcast/) [(youtube)](https://www.youtube.com/playlist?list=PLrAXtmErZgOdP_8GztsuKi9nrraNbKKp4) - interviews prominent leaders of the future
 
 - [This Week in Machine Learning and AI](https://twimlai.com/) (twimlai) - interviews AI practitioners
 
-### AI Newsletters I'd Recommend
+#### AI Newsletters I'd Recommend
 
 - [The Sequence](https://thesequence.substack.com/) - learning ML and AI through a newsletter
 
