@@ -4,8 +4,11 @@ date: 2020-11-10
 categories:
   - OpenAIScholars
 tags:
-   - Open AI Scholars Program
-   - Advice
+  - Open AI Scholars Program
+  - Advice
+  - Exploration
+  - Code First
+  - Sprints
 ---
 
 *This post was written as apart of the Open AI Scholars program. It is Part 2 in the series. Read [Part 1]({% post_url 2020-10-25-learning-how-to-learn %}), [Part 3]({% post_url 2020-11-20-developing-a-research-pov %}). Find [all](/tags/#open-ai-scholars-program) posts relating to the program here.*
