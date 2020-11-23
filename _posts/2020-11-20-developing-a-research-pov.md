@@ -54,6 +54,8 @@ If you don't know where to start, researchers from [OpenAI](https://twitter.com/
 
 - [This Week in Machine Learning and AI](https://twimlai.com/) (twimlai) - interviews AI practitioners
 
+- [Harvard Machine Learning Theory](https://mltheory.org/) - subscribe to the seminar series
+
 #### AI Newsletters I'd Recommend
 
 - [The Sequence](https://thesequence.substack.com/) - learning ML and AI through a newsletter
