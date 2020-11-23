@@ -2,8 +2,9 @@
 title: "Common Mistakes Made When Implementing ResNet"
 date: 2020-10-29
 categories:
-  - Advice
+  - Technical
 tags:
+  - Advice
   - ResNet
   - Research
 ---

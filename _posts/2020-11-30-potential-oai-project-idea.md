@@ -1,12 +1,20 @@
 ---
-title: "Did I find m"
-date: 2020-11-30
+title: "Potential research idea"
+date: 2020-12-30
 categories:
-  - Open AI Scholars
+  - OpenAIScholars
 tags:
    - Open AI Scholars Program
    - Advice
 ---
+
+- chat about my chosen project idea
+
+Questions I ask myself to evaluate a project idea and research area
+
+Once you have an idea, ask yourself:
+
+1. Has anyone studied this?
 
 [Emergent Tool Use from Multi-Agent Interaction](https://openai.com/blog/emergent-tool-use/)
 

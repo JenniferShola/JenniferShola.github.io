@@ -2,7 +2,7 @@
 title: "How to Get Started with AI in Two Months"
 date: 4040-10-23
 categories:
-  - Open AI Scholars
+  - OpenAIScholars
 tags:
    - Open AI Scholars Program
    - Curriculum

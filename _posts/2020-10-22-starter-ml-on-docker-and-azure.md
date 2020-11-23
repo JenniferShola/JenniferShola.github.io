@@ -2,7 +2,7 @@
 title: "Starter Code to Run ML Projects on Docker & Azure"
 date: 2020-10-22
 categories:
-  - Technologies
+  - Technical
 tags:
   - Docker
   - Azure

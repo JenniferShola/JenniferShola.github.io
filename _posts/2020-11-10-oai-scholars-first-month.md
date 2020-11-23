@@ -2,13 +2,15 @@
 title: "Where Did the Time Go? - My One Month Update on the Open AI Scholars Program"
 date: 2020-11-10
 categories:
-  - Open AI Scholars
+  - OpenAIScholars
 tags:
    - Open AI Scholars Program
    - Advice
 ---
 
- It's been 4 weeks since the scholars program started. It feels like we just tarted and yet so much time has passed. I feel like there is still so much left to learn and yet, I feel like I'm radically different from how I started.
+*This post was written as apart of the Open AI Scholars program. It is Part 2 in the series. Read [Part 1]({% post_url 2020-10-25-learning-how-to-learn %}), [Part 3]({% post_url 2020-11-20-developing-a-research-pov %}). Find [all](/tags/#open-ai-scholars-program) posts relating to the program here.*
+
+It's been 4 weeks since the scholars program started. It feels like we just started and yet so much time has passed. I feel like there is still so much left to learn and yet, I feel like I'm radically different from how I started.
 
 ## How I'm Feeling
 

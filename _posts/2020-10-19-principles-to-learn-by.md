@@ -4,12 +4,15 @@ date: 2020-10-19
 categories:
   - Advice
 tags:
-   - Open AI Scholars Program
-   - Advice
-   - Exploration
-   - Code First
-   - Sprints
+  - Open AI Scholars Program
+  - Advice
+  - Exploration
+  - Code First
+  - Sprints
 ---
+
+*This post was written as apart of the Open AI Scholars program. It is Part 1b in the series. Read [Part 1a](2020-10-15-openai-first-day.md) and [Part 2](2020-11-10-oai-scholars-first-month.md) here.*
+
 I could organize a learning schedule for the [Open AI Scholars](https://openai.com/blog/openai-scholars-spring-2020/) program... but that would take time away that could be spent learning and executing. To maximize my efforts in development, I've decided to take a different approach from how I historically study.
 
 Here are a few principles I plan to abide by.

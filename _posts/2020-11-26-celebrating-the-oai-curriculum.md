@@ -2,7 +2,7 @@
 title: "Celebrating the End of the OAI Curriculum"
 date: 4040-10-23
 categories:
-  - Open AI Scholars
+  - OpenAIScholars
 tags:
    - Open AI Scholars Program
    - Curriculum

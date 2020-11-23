@@ -2,7 +2,7 @@
 title: "How to Use Azure Containers to Minimize Computing Costs"
 date: 2020-10-28
 categories:
-  - Technologies
+  - Technical
 tags:
   - Docker
   - Azure

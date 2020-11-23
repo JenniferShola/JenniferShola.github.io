@@ -10,6 +10,7 @@ tags:
    - Research
    - Compound Effect
 ---
+*This post was written as apart of the Open AI Scholars program. It is Part 1 in the series. Read [Part 2]({% post_url 2020-11-10-oai-scholars-first-month %}), [Part 3]({% post_url 2020-11-20-developing-a-research-pov %}). Find [all](/tags/#open-ai-scholars-program) posts relating to the program here.*
 
 **TL;DR** Navigate [below](#practical-tips-on-how-to-learn) for practical tips on how to study more effectively. Navigate [here](#practical-tips-for-reading-research-papers) to learn how to read research papers effectively. At the bottom of the page is a [list](#highly-recommended-resources) of recommended resources.
 
