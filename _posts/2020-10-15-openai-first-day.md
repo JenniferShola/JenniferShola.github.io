@@ -7,8 +7,7 @@ tags:
   - Open AI Scholars Program
   - Imposter Syndrome
 ---
-
-*This post was written as apart of the Open AI Scholars program. It is Part 1a in the series. Read [Part 1b](2020-10-19-principles-to-learn-by.md) and [Part 2](2020-11-10-oai-scholars-first-month.md) here.*
+*This post was written as apart of the Open AI Scholars program. It is Part 0a in the series. Read [Part 0b]({% post_url 2020-10-19-principles-to-learn-by %}). Find [all](/tags/#open-ai-scholars-program) posts relating to the program here.*
 
 The engineer in me is telling me to set up my environment and start working on *literally* anything. The perfectionist in me is hearing the other scholars speak about *multi-agent something or other* and I'm freaking out!
 
