@@ -15,7 +15,7 @@ tags:
 
 It's been 4 weeks since the scholars program started. It feels like we just started and yet so much time has passed. I feel like there is still so much left to learn and yet, I feel like I'm radically different from how I started.
 
-## How I'm Feeling
+**How I'm Feeling?**
 
 Overwhelmed. Tired. Accomplished.
 
