@@ -14,9 +14,9 @@ tags:
 
 The precursor to developing a research project is developing a point-of-view of the industry. This week, I found myself trying to brainstorm new research projects without the slightest indication if the ideas I created were truly innovative, useful, and original.
 
-Has it been tried before? Even if it'd been tried, has anything in the industry changed that would make it viable now? Can it be easily scoped to 4 months? Is it the most important problem to work on? Is it too important of a problem to work on, making it likely that other AI institutions have already deployed teams to the problem you're attempting to to solve by yourself? The uncertainty will wear away at you until you've built a system to address it. A point-of-view is that system.
+*Has it been tried before? Even if it'd been tried, has anything in the industry changed that would make it viable now? Can it be easily scoped to 4 months? Is it the most important problem to work on? Is it too important of a problem to work on, making it likely that other AI institutions have already deployed teams to the problem you're attempting to to solve by yourself?* Until you've built a system to address it, the uncertainty will wear away at you. A point-of-view is that system.
 
-Somewhere before our opinions of the future are hard rules we've created about what we already know. Part of developing a unique point-of-view is knowing which truths to accept, what truths to question, and which truths to build off of. In search of answers, I did what I have always done in times of need: consult an expert. The goal isn't to be told how to think but to understand *what* they believe and why, recognizing that the biggest advantage you have is simply being fresh eyes to an old problem.
+Our POVs must reconcile our ideas of the future with the truths we've created and debated about. Part of developing a unique point-of-view is knowing which truths to accept, what truths to question, and which truths to build off of. In search of answers, I did what I have always done in times of need: consult an expert. The goal isn't to be told how to think but to understand *what* they believe and why, recognizing that the biggest advantage you have is simply being fresh eyes to an old problem.
 
 **Developing bad research ideas is part of the process of ideating.**
 
