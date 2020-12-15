@@ -10,7 +10,7 @@ tags:
   - Learning
   - Research
 ---
-*This post was written as apart of the Open AI Scholars program. It is Part 3 in the series. Read [Part 1]({% post_url 2020-10-25-learning-how-to-learn %}), [Part 2]({% post_url 2020-11-10-first-month-checkin %}). Find [all](/tags/#open-ai-scholars-program) posts relating to the program here.*
+*This post was written as apart of the Open AI Scholars program. It is Part 3 in the series. Read [Part 1]({% post_url 2020-10-25-learning-how-to-learn %}), [Part 2]({% post_url 2020-11-10-first-month-checkin %}), [Part 4]({% post_url 2020-11-23-celebrating-the-oai-curriculum %}). Find [all](/tags/#open-ai-scholars-program) posts relating to the program here.*
 
 The precursor to developing a research project is developing a point-of-view of the industry. This week, I found myself trying to brainstorm new research projects without the slightest indication if the ideas I created were truly innovative, useful, and original.
 

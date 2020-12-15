@@ -11,7 +11,7 @@ tags:
   - Sprints
 ---
 
-*This post was written as apart of the Open AI Scholars program. It is Part 2 in the series. Read [Part 1]({% post_url 2020-10-25-learning-how-to-learn %}), [Part 3]({% post_url 2020-11-20-developing-a-research-pov %}). Find [all](/tags/#open-ai-scholars-program) posts relating to the program here.*
+*This post was written as apart of the Open AI Scholars program. It is Part 2 in the series. Read [Part 1]({% post_url 2020-10-25-learning-how-to-learn %}), [Part 3]({% post_url 2020-11-20-developing-a-research-pov %}), [Part 4]({% post_url 2020-11-23-celebrating-the-oai-curriculum %}). Find [all](/tags/#open-ai-scholars-program) posts relating to the program here.*
 
 It's been 4 weeks since the scholars program started. It feels like we just started and yet so much time has passed. I feel like there is still so much left to learn and yet, I feel like I'm radically different from how I started.
 
