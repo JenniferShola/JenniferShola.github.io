@@ -1,5 +1,6 @@
 ---
 title: "3 Principles to Learn By"
+excerpt: "I could organize a learning schedule for the Open AI Scholars program... but that would take time away that could be spent learning and executing. To maximize my efforts in development, I've decided to take a different approach from how I historically study."
 date: 2020-10-19
 categories:
   - Advice
@@ -10,7 +11,7 @@ tags:
   - Code First
   - Sprints
 ---
-*This post was written as apart of the Open AI Scholars program. It is Part 0b in the series. Read [Part 1]({% post_url 2020-10-25-learning-how-to-learn %}), [Part 2]({% post_url 2020-11-10-first-month-checkin %}), [Part 3]({% post_url 2020-11-20-developing-a-research-pov %}). Find [all](/tags/#open-ai-scholars-program) posts relating to the program here.*
+*This post was written as apart of the Open AI Scholars program. It is Part 0b in the series. Read [Part 1]({% post_url 2020-10-25-learning-how-to-learn %}), [Part 2]({% post_url 2020-11-10-first-month-checkin %}), [Part 3]({% post_url 2020-11-20-developing-a-research-pov %}), [Part 4]({% post_url 2020-11-23-celebrating-the-oai-curriculum %}), [Part 5]({% post_url 2020-12-18-the-research-proposal %}), [Part 6]({% post_url 2021-01-15-pivoting-your-research %}). Find [all](/tags/#open-ai-scholars-program) posts relating to the program here.*
 
 I could organize a learning schedule for the [Open AI Scholars](https://openai.com/blog/openai-scholars-spring-2020/) program... but that would take time away that could be spent learning and executing. To maximize my efforts in development, I've decided to take a different approach from how I historically study.
 

@@ -1,5 +1,6 @@
 ---
 title: "How to Read Research Papers & Learn More Effectively"
+excerpt: "Becoming a beginner is daunting. So daunting that I imagine it's why I hadn't already started the journey. Because to start again, to truly admit that you know little more than that one random ML framework is tough... But we are all beginners in the field of Artificial Intelligence."
 date: 2020-10-25
 categories:
   - Advice
@@ -10,7 +11,7 @@ tags:
    - Research
    - Compound Effect
 ---
-*This post was written as apart of the Open AI Scholars program. It is Part 1 in the series. Read [Part 2]({% post_url 2020-11-10-first-month-checkin %}), [Part 3]({% post_url 2020-11-20-developing-a-research-pov %}), [Part 4]({% post_url 2020-11-23-celebrating-the-oai-curriculum %}). Find [all](/tags/#open-ai-scholars-program) posts relating to the program here.*
+*This post was written as apart of the Open AI Scholars program. It is Part 1 in the series. Read [Part 2]({% post_url 2020-11-10-first-month-checkin %}), [Part 3]({% post_url 2020-11-20-developing-a-research-pov %}), [Part 4]({% post_url 2020-11-23-celebrating-the-oai-curriculum %}), [Part 5]({% post_url 2020-12-18-the-research-proposal %}), [Part 6]({% post_url 2021-01-15-pivoting-your-research %}). Find [all](/tags/#open-ai-scholars-program) posts relating to the program here.*
 
 **TL;DR** Navigate [below](#practical-tips-on-how-to-learn) for practical tips on how to study more effectively. Navigate [here](#practical-tips-for-reading-research-papers) to learn how to read research papers effectively. At the bottom of the page is a [list](#highly-recommended-resources) of recommended resources.
 

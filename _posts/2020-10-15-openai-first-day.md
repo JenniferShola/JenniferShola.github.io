@@ -1,5 +1,6 @@
 ---
 title: "Can't Believe I'm an OpenAI Scholar"
+excerpt: "Today is Day 3 of the Open AI Scholars program. It's been a mix of emotions since then - excitement, nervousness, trepidation. Its barely been one month since I applied and was accepted into the program so it still feels a bit surreal, yet timely."
 date: 2020-10-15
 categories:
   - OpenAIScholars
@@ -7,7 +8,7 @@ tags:
   - Open AI Scholars Program
   - Imposter Syndrome
 ---
-*This post was written as apart of the Open AI Scholars program. It is Part 0a in the series. Read [Part 0b]({% post_url 2020-10-19-principles-to-learn-by %}). Find [all](/tags/#open-ai-scholars-program) posts relating to the program here.*
+*This post was written as apart of the Open AI Scholars program. It is Part 0a in the series. Read [Part 0b]({% post_url 2020-10-19-principles-to-learn-by %}), [Part 1]({% post_url 2020-10-25-learning-how-to-learn %}), [Part 2]({% post_url 2020-11-10-first-month-checkin %}), [Part 3]({% post_url 2020-11-20-developing-a-research-pov %}), [Part 4]({% post_url 2020-11-23-celebrating-the-oai-curriculum %}), [Part 5]({% post_url 2020-12-18-the-research-proposal %}), [Part 6]({% post_url 2021-01-15-pivoting-your-research %}). Find [all](/tags/#open-ai-scholars-program) posts relating to the program here.*
 
 The engineer in me is telling me to set up my environment and start working on *literally* anything. The perfectionist in me is hearing the other scholars speak about *multi-agent something or other* and I'm freaking out!
 
