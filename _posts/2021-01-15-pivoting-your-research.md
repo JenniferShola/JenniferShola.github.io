@@ -1,6 +1,6 @@
 ---
 title: "Pivoting Direction in Research"
-excerpt: "A deep dive into my research project, Scaling Laws for Transformer Variants, and how the project has pivoted since it's inception."
+excerpt: "A closer look at my research project, Scaling Laws for Transformer Variants, and how the project has pivoted since it's inception."
 date: 2021-01-15
 categories:
   - OpenAIScholars
@@ -21,7 +21,7 @@ I'm barely two weeks into doing research and I've already pivoted. Before I get 
 
 My research project is my attempt at answering the question, how do architectural components affect the performance expectations of a model and by knowing the architecture of a model, can we predict it's performance? Connected to this question is the question around task suitability. Is there a discernable pattern among model architecture and performance within different types of tasks? If such a relationship between model architecture and task can be found, than would we be able to predict what architecture is needed to support the type of model success we're looking for. This is the big question. At a high level, this is the question I'm looking to answer but to make my project more attainable, I heavily scoped it down.
 
-Instead of focusing on the large possibility of language models, I decided to focus on transformers. Why? Transformers are behind much of the innovation in modern NLP. As explained in the [research proposal](https://docs.google.com/document/d/17Y88ALvE9essv4QCD13-omQstpn3iz35k7R3R49zpNM/edit?usp=sharing), transformers are popular due to their simplicity, high accuracy, improved performance, and ease of scalability. Despite their initial success, the limits are still relatively unknown. Even of the number of transformer variants that have been released, it's not clear how to compare and understand the performance of each variant, let alone of the architectural components within them.
+Instead of focusing on the large possibility of language models, I decided to focus on transformers. Why? Transformers are behind much of the innovation in modern NLP. As explained in the research proposal, transformers are popular due to their simplicity, high accuracy, improved performance, and ease of scalability. Despite their initial success, the limits are still relatively unknown. Even of the number of transformer variants that have been released, it's not clear how to compare and understand the performance of each variant, let alone of the architectural components within them.
 
 #### The Research Proposal
 
