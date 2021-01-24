@@ -27,11 +27,13 @@ Instead of focusing on the large possibility of language models, I decided to fo
 
 A link to the original research proposal can be found [here](https://docs.google.com/document/d/17Y88ALvE9essv4QCD13-omQstpn3iz35k7R3R49zpNM/edit?usp=sharing).
 
-My research project is titled *Scaling Laws for Transformer Architecture Variants*, which is a bit of a misnomer (upon further reflection). It suggests that I wanted to understand how each transformer variant scales but when I started my research, I was trying to understand which component of the proposed model was responsible for the performance received. However, as I started my research, I quickly realized that was not what I was testing. In fact, I was comparing apples and oranges. The difference between the architecture of two transformer variants could actually be quite complex, making it difficult to understand which component of the proposed model is actually responsible for the expected results.
+My research project is titled *Scaling Laws for Transformer Architecture Variants*, which is a bit of a misnomer (upon further reflection). It suggests that I wanted to understand how each transformer variant scales but when I started my research, I was trying to understand which component of the proposed model was responsible for the performance received. As I started my research, I quickly realized that was not what I was testing.
+
+The difference between the architecture of two transformer variants could actually be quite complex, making it difficult to understand which component of the proposed model is actually responsible for the expected results. By running experiments only on the variants, I was comparing apples and oranges; the models have too many structural differences to definitively understand which architectural component is driving the difference in performance, not without testing the structural elements *between* two variants, as opposed to testing *only* the variants themselves.
 
 #### The Pivot
 
-It became evident that by only experimenting with variants, there was a surplus of models in the gap between the variants that hadn't necessarily been tested or understood within context of the other variants and their expected performance. While the paper behind each model outlined it's individual expected results, it wasn't clear how each model would perform in tandem and even if such a relationship were to be tested, it wasn't clear if it would be meaningful given that each model was designed to perform well on it's specific task.
+It became evident that by only experimenting with variants, there was a surplus of models in the gap between the variants that hadn't necessarily been tested or understood within context of the other variants and their expected performance. While the paper behind each model outlined it's individual expected results, it wasn't clear how each model would perform in tandem with one another and even if such a relationship were to be tested, it wasn't clear if it would tell us anything meaningful given that each model was designed to perform well on it's specific task.
 
 It also became clear that the paper on which this project was inspired by, *Scaling Laws for Neural Language Models,* found empirical rules for the original (decoder-only) transformer model. It isn't clear if these rules directly transfer to other transformer variants. If they do, is the observed relationship the same? If it's different, can we calculate what it is and predict it's own curve? If it doesn't at all, why?
 
@@ -43,7 +45,7 @@ While a pivot might not necessarily be needed for a researcher with unlimited ti
 
 >"When in doubt, pick one and rule out the unknowns in that before moving on to the next question."
 
-So far, I have pivoted away from my initial research proposal. According to my original timeline, I was going to going to run a set of base experiments on different transformer variants. Now, I don't quite think that helps me answer the types of questions I was hoping to answer in my original research proposal.
+So far, I have only slightly pivoted away from my initial research proposal. According to my original timeline, I was going to going to run a set of base experiments on different transformer variants. Now, I don't quite think that helps me answer the types of questions I was hoping to answer in my original research proposal.
 
 Instead, I picked another transformer model, Transformer XL, and I'm testing it's performance on the cross-entropy loss. I want to understand how the loss scales as a power-law with model size, dataset size, and the amount of compute used for training. As I get the results back, I want to start comparing the results to the original decoder-only transformer and understand what the scaling laws are for Transformer XL. Assuming one exists, I want to understand the differences between the relationship and map out it's corresponding curve.
 
