@@ -104,3 +104,9 @@ tags:
 ## Open Endedness
 
 - [Abandoning Objectives: Evolution through the Search for Novelty Alone](http://eplex.cs.ucf.edu/papers/lehman_ecj11.pdf)
+
+## Huggingface Links
+
+- [How to train a new language model from scratch using Transformers and Tokenizers](https://huggingface.co/blog/how-to-train)
+
+-[Transformer XL Default Configuration File](https://huggingface.co/transfo-xl-wt103/resolve/main/config.json)

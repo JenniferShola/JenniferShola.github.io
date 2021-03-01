@@ -9,7 +9,7 @@ tags:
    - Curriculum
    - Celebrations
 ---
-*This post was written as apart of the Open AI Scholars program. It is Part 4 in the series. Read [Part 1]({% post_url 2020-10-25-learning-how-to-learn %}), [Part 2]({% post_url 2020-11-10-first-month-checkin %}), [Part 3]({% post_url 2020-11-20-developing-a-research-pov %}), [Part 5]({% post_url 2020-12-18-the-research-proposal %}), [Part 6]({% post_url 2021-01-15-pivoting-your-research %}). Find [all](/tags/#open-ai-scholars-program) posts relating to the program here.*
+*This post was written as apart of the Open AI Scholars program. It is Part 4 in the series. Read [Part 1]({% post_url 2020-10-25-learning-how-to-learn %}), [Part 2]({% post_url 2020-11-10-first-month-checkin %}), [Part 3]({% post_url 2020-11-20-developing-a-research-pov %}), [Part 5]({% post_url 2020-12-18-the-research-proposal %}), [Part 6]({% post_url 2021-01-15-pivoting-your-research %}), [Part 7]({% post_url 2021-01-29-huggingface-tutorial %}), [Part 8]({% post_url 2021-02-12-generating-loss-curves %}). Find [all](/tags/#open-ai-scholars-program) posts relating to the program here.*
 
 ![Elmo helps me celebrate my accomplishments with a jig](https://media.giphy.com/media/kyLYXonQYYfwYDIeZl/giphy.gif)
 
