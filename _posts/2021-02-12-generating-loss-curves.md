@@ -1,5 +1,5 @@
 ---
-title: "The First Few Experiments: How to Generate & Access Your Loss Curves"
+title: "The First Experiment: How to Generate & Access Your Loss Curves"
 excerpt: "This post is for anyone pursuing independent research in AI and needs help understanding how to think through creating their first experiment and breaking down the process of building out their experiments."
 date: 2021-02-26
 categories:
