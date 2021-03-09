@@ -11,7 +11,7 @@ tags:
    - Research
    - Compound Effect
 ---
-*This post was written as apart of the Open AI Scholars program. It is Part 1 in the series.  Read part [1]({% post_url 2020-10-25-learning-how-to-learn %}), [2]({% post_url 2020-11-10-first-month-checkin %}), [3]({% post_url 2020-11-20-developing-a-research-pov %}), [4]({% post_url 2020-11-23-celebrating-the-oai-curriculum %}), [5]({% post_url 2020-12-18-the-research-proposal %}), [6]({% post_url 2021-01-15-pivoting-your-research %}), [7]({% post_url 2021-01-29-huggingface-tutorial %}), [8]({% post_url 2021-02-12-generating-loss-curves %}), [9]({% post_url 2021-02-26-scaling-large-models %}). Find [all](/tags/#open-ai-scholars-program) posts relating to the program here.*
+*This post was written as apart of the Open AI Scholars program. It is Part 1 in the series.  Read part [1]({% post_url 2020-10-25-learning-how-to-learn %}), [2]({% post_url 2020-11-10-first-month-checkin %}), [3]({% post_url 2020-11-20-developing-a-research-pov %}), [4]({% post_url 2020-11-23-celebrating-the-oai-curriculum %}), [5]({% post_url 2020-12-18-the-research-proposal %}), [6]({% post_url 2021-01-15-pivoting-your-research %}), [7]({% post_url 2021-01-29-huggingface-tutorial %}), [8]({% post_url 2021-02-12-generating-loss-curves %}). Find [all](/tags/#open-ai-scholars-program) posts relating to the program here.*
 
 **TL;DR** Navigate [below](#practical-tips-on-how-to-learn) for practical tips on how to study more effectively. Navigate [here](#practical-tips-for-reading-research-papers) to learn how to read research papers effectively. At the bottom of the page is a [list](#highly-recommended-resources) of recommended resources.
 
