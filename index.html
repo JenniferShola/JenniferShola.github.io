@@ -5,6 +5,7 @@
   <meta charset="UTF-8" />
   <title>Jennifer Oyedele</title>
   <link rel="stylesheet" href="assets/css/styles.css" />
+  <script src="assets/css/script.js" defer></script>
 </head>
 <body>
 
@@ -174,11 +175,15 @@
   <section class="section center">
     <div class="container">
 
-      <video autoplay muted playsinline loop>
-        <source src="assets/data/snippet.mp4" type="video/mp4">
-        Your browser does not support the video tag.
-      </video>
-      
+      <div class="video-container">
+        <video autoplay muted playsinline loop>
+          <source src="assets/data/snippet.mp4" type="video/mp4">
+          Your browser does not support the video tag.
+        </video>
+        <button id="unmuteBtn" onclick="toggleMute()">
+          Click for Sound 🔊
+        </button>
+      </div>
       <p class="center"><i>A snippet of Bringing AI to Life, a film exploring AI's impact on creativity and entreprenuership. Produced with support from the Mozilla Creative Media Award. Past winners have gone on to win Emmys and exhibit at the Tate Modern.</i></p>
     </div>
   </section>
