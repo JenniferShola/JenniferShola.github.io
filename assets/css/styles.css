@@ -25,6 +25,11 @@ body {
   padding: 15px 20px;
 }
 
+.nav-name a {
+  text-decoration: none;
+  color: black;
+}
+
 .nav-name {
   font-weight: 600;
 }
