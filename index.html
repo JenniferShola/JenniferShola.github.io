@@ -1,7 +1,197 @@
----
-# You don't need to edit this file, it's empty on purpose.
-# Edit theme's home layout instead if you wanna make some changes
-# See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-layout: home
-author_profile: true
----
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <meta charset="UTF-8" />
+  <title>Jennifer Oyedele</title>
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+
+  <!-- NAV -->
+  <nav class="nav">
+    <div class="nav-container nav-inner">
+      <div class="nav-name">Jennifer Oyedele</div>
+      <div class="nav-links" id="nav-links">
+        <a href="#achievements">Achievements</a>
+        <a href="#work">Work</a>
+        <a href="#impact">Impact</a>
+        <a href="#profile">About</a>
+        <a href="resume.pdf" class="nav-cta">CV</a>
+      </div>
+      <div class="hamburger" id="hamburger" onclick="toggleNav()">
+        <span></span>
+        <span></span>
+        <span></span>
+      </div>
+    </div>
+  </nav>
+
+  <!-- HERO -->
+  <section class="hero">
+    <div class="container">
+      <h1>
+        AI Founder and Inventor
+      </h1>
+
+      <div class="subhead">
+        <h3>
+          10+ years building AI products serving millions of users
+          <br/>
+          <br/>
+          Mozilla Award Recipient
+          <br/>
+          OpenAI Scholar
+        </h3>
+      </div>
+
+      <a href="resume.pdf" class="cta meta">View CV</a>
+      
+    </div>
+  </section>
+  
+  
+  <!-- LOGOS -->
+  <section class="logos-outer">
+    <div class="nav-container logos">
+      <img src="https://widelensleadership.com/wp-content/uploads/2020/10/stanford-bw-logo.png" alt="Stanford">
+      <img class="small" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/OpenAI_Logo.svg/3840px-OpenAI_Logo.svg.png" alt="OpenAI">
+      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6IwXQBnTzSB3zJiEkeTNTute6atW6GW8-uw" alt="Material Change Institute">
+      <img class="small" src="https://creativedestructionlab.com/wp-content/uploads/2016/10/creative-destruction-lab.png" alt="CDL">
+      <img class="small" src="https://upload.wikimedia.org/wikipedia/commons/d/df/Mozilla_2024_logo.svg" alt="Mozilla">
+    </div>
+  </section>
+  
+
+  <!-- ACHIEVEMENTS -->
+  <section id="achievements" class="section top center">
+    <div class="container">
+      <h2>Key Achievements</h2><br />
+
+      <div class="grid">
+        <div class="card">
+          <strong>Open AI Scholars (2020)</strong>
+          <p>Selected as 1 of 8 participants globally to conduct AI research at Open AI. My research was titled: Scaling Laws for Transformer Architecture Variants.</p>
+        </div>
+
+        <div class="card">
+          <strong>Mozilla Creative Media Award (2023) </strong>
+          <p>Selected as 1 of 11 recipients globally by the Mozilla Foundation. Awarded USD $30K to produce a film that explores the societal impacts of AI on tech entreprenuership.</p>
+        </div>
+
+        <div class="card">
+          <strong>Patents (2025)</strong>
+          <p>Filed 3 US provisional patents designed to make autonomous AI systems more trustworthy, reliable, and capable of coordinated work.</p>
+        </div>
+        
+        <div class="card">
+          <strong>Material Change Institute Fellow (2024)</strong>
+          <p>A year long fellowship introducing accomplished operators to the venture capital industry. Fellows mentor seed-stage science and tech-based ventures.</p>
+        </div>
+
+        <div class="card">
+          <strong>IDI Senior Fellow (2025)</strong>
+          <p>Research fellowship designed for technical operators interested in researching and building tools to combat digital misinformation.</p>
+        </div>
+        
+        <div class="card">
+          <strong>Founder (Ongoing)</strong>
+          <p>Built Shola Ventures, an AI-first technology company that generated approximately AUD $380,000 in annual revenue as a solo founder. </p>
+        </div>
+        
+      </div>
+    </div>
+  </section>
+
+  <!-- WORK -->
+  <section id="work" class="section alt top center">
+    <div class="container">
+      <h2>Work &amp; Contributions</h2>
+
+      <div class="columns">
+ 
+        <div>
+          <h3>AI Research &amp; Invention</h3>
+          <p>My research foundation came from the OpenAI Scholars program, now the OpenAI Research Residency, where I studied how performance scales across transformer architecture variants like Reformer, Transformer XL, and BERT. The research was about understanding the practical economics of AI, how architectural choices drive inference costs and what that means for companies trying to deploy AI at scale. </p>
+          <p>That research instinct carried into AI Safety Camp, an independent research program where I worked on behavioral annotation frameworks for AI alignment. The through-line across both: I'm drawn to problems that determine whether AI systems hold up in the real world. The patents I filed are the most direct expression of that, inventions targeting real-world application.</p>
+        </div>
+ 
+        <div>
+          <h3>Commercial Work</h3>
+          <p>I started my engineering career at Intuit in 2014, where I built infrastructure supporting over five million concurrent users. From there I worked at Walker &amp; Company and IBM, leading teams, shipping products, and working on NLP systems in globally deployed products.</p>
+          <p>When ChatGPT launched in November 2022, AI became a mainstream conversation but I'd already spent years working on production AI systems: first at Apprente AI, an IBM subsidiary, and as an OpenAI Scholar. Founding was the natural next move to achieve a vision for the technology I wanted to exist in the world.</p>
+        </div>
+ 
+        <div>
+          <h3>Ecosystem &amp; Leadership</h3>
+          <p>My involvement in technical communities started early, as a LEDA Scholar, an American program for high-achieving college-bound students, and later through national programs for emerging engineers. I joined those communities looking for belonging and stayed when I found I had something to give back. </p>
+          <p>Through MCI and its partnership with CDL, I found myself in rooms with technical seed-stage founders building AI companies and realised I had a specific kind of value to offer: I'd been an engineer, a researcher, and an operator. I became a mentor to those founders, helping them navigate the gap between what they'd built, how to deploy it and what it would take to sell it.</p>
+        </div>
+ 
+      </div>
+    </div>
+  </section>
+
+  <!-- IMPACT -->
+  <section id="impact" class="section center">
+    <div class="container narrow">
+      <h2>Impact</h2>
+      <p>The products I've worked on have always operated at scale. Infrastructure I built at Intuit supported millions of users. NLP systems I developed at IBM powered globally deployed products. The engineering work I did at Apprente AI, voice AI for fast food ordering, shipped inside one of the world's largest restaurant chains: McDonald's. By the time I started building my own company, I had spent a decade understanding what it takes for technology to hold up not just in a demo but in the real world, across millions of interactions in every market around the world.</p>
+      <p>The communities I've been part of reflect the same trajectory. I started in national programs (LEDA, Code2040) and over time became part of internationally recognized ecosystems: OpenAI, Mozilla, Material Change Institute, and the Creative Destruction Lab, whose Melbourne hub is anchored at Monash Business School. These are communities where I've done substantive work as a researcher, an engineer, a fellow, and someone helping the next generation of technical founders build things that last.</p>
+      <p>In 2025, LEDA, a Princeton and Yale University affiliated program for exceptional young leaders, recognized me as their Alumni Honoree, citing sustained contributions to technology and community.</p> 
+      <p><b>This recognition reflects something consistent across my career: a belief in building up the people around me and creating innovative technology as I do it.</b></p>
+    </div>
+  </section>
+  
+    <!-- LINKS -->
+  <section class="links-outer">
+    <h3>In the Press...</h3>
+    <div class="nav-container logos">
+      <a href="https://openai.com/index/openai-scholars-2021-final-projects/#shola">
+        <img class="small" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/OpenAI_Logo.svg/3840px-OpenAI_Logo.svg.png" alt="OpenAI Scholars Demo Day">
+      </a>
+      <a href="https://ledascholars.org/2025-annual-celebration/">
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQncgrEd_GY5YRMWrjRyOoWTctsiSIeNGiOiw&s" alt="LEDA 2025 Alumni Honoree">
+      </a>
+      <a href="https://www.wired.com/story/mcdonalds-acquires-apprente-voice-ai/">
+        <img class="small" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGZKERq9jg7aT2-LKGsqMmscksujAmNQnzkw&s" alt="Apprente McDonalds Partnership">
+      </a>
+      <a href="https://www.mozillafoundation.org/en/blog/announcing-11-projects-exploring-ai-and-responsible-design/">
+        <img class="small" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Mozilla_Foundation_logo_%282025%E2%80%93%29.svg/3840px-Mozilla_Foundation_logo_%282025%E2%80%93%29.svg.png" alt="Mozilla Foundation CMA Announcement">
+      </a>
+      
+    </div>
+  </section>
+
+  <!-- MEDIA -->
+  <section class="section center">
+    <div class="container">
+
+      <div class="video">
+        <iframe src="https://www.youtube.com" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+      </div>
+      
+      <p class="center"><i>A snippet of Bringing AI to Life, a film exploring AI's impact on creativity and entreprenuership. Produced with support from the Mozilla Creative Media Award. Past winners have gone on to win Emmys and exhibit at the Tate Modern.</i></p>
+    </div>
+  </section>
+
+  <!-- PROFILE -->
+  <section id="profile" class="section alt center">
+    <div class="container narrow">
+      <h2>About Me</h2>
+      <p>Curiosity led me to technology. I grew up fascinated by what machines could do, drawn early to biomedical engineering and the idea that technology could extend human capability in ways that mattered. That instinct led me to Stanford, into software, and eventually into AI at a moment when very few people were paying attention to it.</p>
+      <p>Over the past decade I've been recognized by some of the most selective institutions in the field. The OpenAI research program, which accepts fewer than 30 researchers globally from thousands of applicants, shaped how I think about AI systems at scale. The Mozilla Foundation, whose creative media grants are co-evaluated by the Ford and MacArthur Foundations, recognized my work at the intersection of technology and art. The patents I've filed address problems that sit at the frontier of enterprise AI. And through the Material Change Institute and Creative Destruction Lab, a global network that has generated over CAD $18 billion in equity value, I've worked alongside some of the most ambitious technical founders in the world.</p>
+      <p>The daughter of immigrants, I've always considered myself a global citizen, shaped by cities, conferences, and networks across multiple continents. Giving back has been a constant: mentoring emerging engineers and technical founders, supporting nonprofits and community programs, and staying connected to the communities that shaped me. In 2025, LEDA recognized that commitment by naming me their Alumni Honoree for outstanding community service. What connects all of it is a belief that the most interesting technology is built at the intersection of deep expertise and genuine human stakes. The best builders are also the best citizens. I've tried to be both.</p>
+    </div>
+  </section>
+  
+  <!-- FOOTER -->
+  <footer class="footer">
+    <div class="nav-container nav-inner">
+      <div>Copyright © 2026</div>
+      <div> All RIghts Reserved.</div>
+    </div>
+  </footer>
+
+</body>
+</html>
