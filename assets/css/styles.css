@@ -48,6 +48,9 @@ body {
   width: 100%;
 }
 
+.hamburger {
+  display: none; 
+}
 
 /* LAYOUT */
 .container {
@@ -178,6 +181,7 @@ h3 {
   width: 100%; /* Ensure it takes up space */
   height: auto;
   border-radius: 8px;
+  opacity: 0.8;
 }
 
 /* MEDIA */
