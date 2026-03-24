@@ -168,6 +168,18 @@ h3 {
   gap: 40px;
 }
 
+.col {
+  align-items: center;
+  display: flex;
+}
+
+.col img {
+  display: block;
+  width: 100%; /* Ensure it takes up space */
+  height: auto;
+  border-radius: 8px;
+}
+
 /* MEDIA */
 .media-list {
   margin-bottom: 20px;
